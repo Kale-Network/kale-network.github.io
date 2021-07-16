@@ -6,7 +6,7 @@ date:   2021-03-04
 author: "[Gene Hoffman](https://twitter.com/hoffmang)"
 ---
 
-Come join a cocktail hour panel Friday March 5 and learn about the most efficient way to [farm large quantities of plotted storage](https://github.com/Chia-Network/chia-blockchain/wiki/Reference-Farming-Hardware) and talk about the impact Chia might have in terms of total electrical capacity used to support all Chia farms. 🌱
+Come join a cocktail hour panel Friday March 5 and learn about the most efficient way to [farm large quantities of plotted storage](https://github.com/Kale-Network/kale-blockchain/wiki/Reference-Farming-Hardware) and talk about the impact Chia might have in terms of total electrical capacity used to support all Chia farms. 🌱
 
 Joining Bram and Gene will be @xorinox, @storage_jm, and @farming101.
 

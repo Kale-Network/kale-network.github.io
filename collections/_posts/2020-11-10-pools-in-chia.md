@@ -6,7 +6,7 @@ date:   2020-11-10
 author: "[Bram Cohen](https://twitter.com/bramcohen)"
 ---
 
-*Update*: Check the [Pooling FAQ](https://github.com/Chia-Network/chia-blockchain/wiki/Pooling-FAQ) for more updates.
+*Update*: Check the [Pooling FAQ](https://github.com/Kale-Network/kale-blockchain/wiki/Pooling-FAQ) for more updates.
 
 As the launch of Chia’s mainnet approaches I want to go over the current status of farmer pools in Chia and what the plans for pooling are in the future.
 

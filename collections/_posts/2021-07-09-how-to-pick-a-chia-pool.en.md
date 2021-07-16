@@ -17,7 +17,7 @@ Knowing how to find a safe, secure, and trustworthy pool is important. There are
 
 How you prioritize and value these factors in your decision to join a Chia pool is up to you. 
 
-To learn more about pools in Chia, check out the [Pooling FAQ](https://github.com/Chia-Network/chia-blockchain/wiki/Pooling-FAQ) and the [Pooling User Guide](https://github.com/Chia-Network/chia-blockchain/wiki/Pooling-User-Guide) in the wiki. Questions can be asked in the [#pools channel in Keybase](https://keybase.io/team/chia_network.public).
+To learn more about pools in Chia, check out the [Pooling FAQ](https://github.com/Kale-Network/kale-blockchain/wiki/Pooling-FAQ) and the [Pooling User Guide](https://github.com/Kale-Network/kale-blockchain/wiki/Pooling-User-Guide) in the wiki. Questions can be asked in the [#pools channel in Keybase](https://keybase.io/team/chia_network.public).
 
 ## Pool operator experience, reputation, community engagement
 
@@ -59,11 +59,11 @@ If you’re an experienced crypto user, then a pooling provider with a good trac
 
 ## Move if you want to
 
-Pooling in Chia is designed to make it easy for you to change your pool membership. If you are not satisfied with your pool, you can move! You can read more about how to move to another pool in the [Pooling User Guide](https://github.com/Chia-Network/chia-blockchain/wiki/Pooling-User-Guide).
+Pooling in Chia is designed to make it easy for you to change your pool membership. If you are not satisfied with your pool, you can move! You can read more about how to move to another pool in the [Pooling User Guide](https://github.com/Kale-Network/kale-blockchain/wiki/Pooling-User-Guide).
 
 ## How to find a pool
 
-You can find a list of some Chia pools on the following websites. _Note that Chia Network does not officially endorse these websites_. These links are provided for informational purposes only. 
+You can find a list of some Chia pools on the following websites. _Note that Kale Network does not officially endorse these websites_. These links are provided for informational purposes only. 
 * [https://miningpoolstats.stream/chia](https://miningpoolstats.stream/chia)
 * [https://chiapool.directory](https://chiapool.directory/)
 

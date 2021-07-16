@@ -10,8 +10,8 @@ title: "Вы еще пишете код?"
 
 | Репозиторий                                                                 | Содержит                                                                      |
 |----------------------------------------------------------------------------|-------------------------------------------------------------------------------|
-| [chia-blockchain](https://github.com/Chia-Network/chia-blockchain)         | Код посвященный консенсусу, сетевому взаимодействию и эталонной имплементации Chialisp.           |
-| [chia-blockchain-gui](https://github.com/Chia-Network/chia-blockchain-gui) | Графический интерфейс пользователя на Electron/React для плоттера, узла и кошельков. |
+| [chia-blockchain](https://github.com/Kale-Network/kale-blockchain)         | Код посвященный консенсусу, сетевому взаимодействию и эталонной имплементации Chialisp.           |
+| [chia-blockchain-gui](https://github.com/Kale-Network/kale-blockchain-gui) | Графический интерфейс пользователя на Electron/React для плоттера, узла и кошельков. |
 | [clvm](https://github.com/Chia-Network/clvm)                               | Виртуальная машина Chialisp на Python                                            |
 | [clvm-rs](https://github.com/Chia-Network/clvm_rs)                         | Виртуальная машина Chialisp на Rust для безопасности и производительности.                |
 | [chiapos](https://github.com/Chia-Network/chiapos)                         | Создание участков и валидация Доказательств пространства (Proofs of Space).                                 |

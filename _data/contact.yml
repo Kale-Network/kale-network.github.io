@@ -1,12 +1,13 @@
-name: Chia Network
+name: Kale Network
 
 # official company email (if specified, will be displayed in footer and other places)
-email: hello@chia.net
+email: hello@kalenetwork.org
 
 # social media profiles (if specified, will be displayed in footer and used for SEO)
-twitter_username: chia_project
-github_username: Chia-Network
-facebook_username: ChiaProject
-medium_username: chia.net
-instagram_username: chia_project
-keybase_team_page: https://keybase.io/team/chia_network.public
+twitter_username: KaleCrypto1
+github_username: Kale-Network
+# facebook_username: ChiaProject
+# medium_username: chia.net
+# instagram_username: chia_project
+# keybase_team_page: https://keybase.io/team/chia_network.public
+discord_page: https://discord.com/invite/cSrV78ye

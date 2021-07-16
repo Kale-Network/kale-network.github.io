@@ -6,7 +6,7 @@ date:   2021-07-07
 author: "[Bram Cohen](https://twitter.com/bramcohen)"
 ---
 
-**TL;DR:** The new plot format has arrived. Upgrade to version 1.2.0 of the Chia Blockchain software to start plotting for pools now and be sure to set up a Plot NFT before doing so. Original plots will continue to be self-farmable but can not be safely used in pools.
+**TL;DR:** The new plot format has arrived. Upgrade to version 1.2.0 of the Kale blockchain software to start plotting for pools now and be sure to set up a Plot NFT before doing so. Original plots will continue to be self-farmable but can not be safely used in pools.
 
 ---
 
@@ -22,4 +22,4 @@ Portable pool functionality is built entirely on the base chia programming envir
 
 Existing plots which don’t use portable pools will continue to work fine. If you wish to switch an existing farm to pooling, you can redo one plot at a time while leaving the old ones running. If you have a large enough farm that you get frequent rewards, we recommend that you not use a pool at all. There are almost 5000 reward events per day, so anyone who has a five thousandth of the total netspace will get about one reward per day on average, which results in not much variance over the course of months. Due to the overwhelming popularity of Chia farming, a five thousandth of netspace is still a lot, but it’s meaningfully lower than the equivalent proportion of space in Bitcoin–both for being able to self-pool and for a pool to hit a big enough size to be viable.
 
-To learn more about how to plot and farm portable pool plots check out our [Pooling User Guide](https://github.com/Chia-Network/chia-blockchain/wiki/Pooling-User-Guide). For more details about how our pooling protocol works you can review our [reference implementation for pool operators](https://github.com/Chia-Network/pool-reference).
+To learn more about how to plot and farm portable pool plots check out our [Pooling User Guide](https://github.com/Kale-Network/kale-blockchain/wiki/Pooling-User-Guide). For more details about how our pooling protocol works you can review our [reference implementation for pool operators](https://github.com/Chia-Network/pool-reference).
