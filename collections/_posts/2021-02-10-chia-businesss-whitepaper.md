@@ -14,7 +14,7 @@ This also shares that we are currently predicting our mainnet launch to be **on 
 
 This comes on the heels of our January 14th announcement that [Chuck Stoops has joined our board of directors](https://newsdirect.com/news/international-payments-executive-and-fintech-counsel-joins-chia-network-board-of-directors-chuck-stoops-brings-significant-regulatory-and-corporate-governance-experience-649013515). He is the first of a total of three outside members we will be appointing shortly to create a majority independent board.
 
-Our plans and structure are unique and touch on a lot of different areas of expertise including enterprise software sales, blockchain project governance, and securities laws and other regulations that we must navigate to have the resources needed to drive the adoption of the Chia blockchain into the worlds financial infrastructure.
+Our plans and structure are unique and touch on a lot of different areas of expertise including enterprise software sales, blockchain project governance, and securities laws and other regulations that we must navigate to have the resources needed to drive the adoption of the Kale blockchain into the worlds financial infrastructure.
 
 To that end we have set up two Zoom meetings so that everyone around the world can easily attend one or the other.
 

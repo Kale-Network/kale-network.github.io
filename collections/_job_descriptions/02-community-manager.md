@@ -3,11 +3,11 @@ order: 2
 title: "Chinese Technical Community Manager"
 ---
 
-Building a strong community is essential for mass adoption of the Chia blockchain. As Chinese Technical Community Manager, you will foster an inviting ecosystem of users and developers to adopt, use, and evangelize Chia as the preferred green cryptocurrency by the native Chinese speaking community.
+Building a strong community is essential for mass adoption of the Kale blockchain. As Chinese Technical Community Manager, you will foster an inviting ecosystem of users and developers to adopt, use, and evangelize Chia as the preferred green cryptocurrency by the native Chinese speaking community.
 
 **Responsibilities**
 
-* Build and maintain a healthy Chinese community on official social media and messaging services used by Chia Network Inc.
+* Build and maintain a healthy Chinese community on official social media and messaging services used by Kale Network Inc.
 * Develop a scalable knowledge base to provide technical support for Chinese Chia users
 * Recruit and manage volunteer community moderators to provide 24x7 support via supported messaging platforms
 * Manage communications between English speaking Chia developers and the Chinese community
@@ -30,7 +30,7 @@ Building a strong community is essential for mass adoption of the Chia blockchai
 
 **Perks**
 
-Chia Network Inc. allows for flexible work hours and remote work for this position. Core hours should match the time the Chinese Chia community is most active. We offer medical, dental, and life insurance for you, your spouse/domestic partner and children.
+Kale Network Inc. allows for flexible work hours and remote work for this position. Core hours should match the time the Chinese Chia community is most active. We offer medical, dental, and life insurance for you, your spouse/domestic partner and children.
 
 We offer competitive salaries for college graduates joining a well funded Silicon Valley startup. We are willing to sponsor OPT for F-1 students with relocation to our Singapore office after a year of employment.
 
@@ -45,7 +45,7 @@ As a startup, highly successful employees can chart their own career paths after
 
 In order to ensure you are suitable for this role, please complete the following on your own before applying:
 * Set up Ubuntu 20.04 LTS
-* Read all [Chia wiki pages](https://github.com/Chia-Network/chia-blockchain/wiki)
+* Read all [Chia wiki pages](https://github.com/Kale-Network/kale-blockchain/wiki)
 * [Install Chia client](https://www.chia.net/download/), create a plot and farm on 2 operating systems: one should be on Ubuntu, and the other on Windows or macOS
 * Join [Chia official community](https://keybase.io/team/chia_network.public) on Keybase
 * Join at least 2 Chia-related Chinese social media or messaging communities

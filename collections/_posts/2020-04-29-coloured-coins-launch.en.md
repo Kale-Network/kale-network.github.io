@@ -22,7 +22,7 @@ someone can make an unfinished transaction called an 'offer.' You can simultaneo
 some Coloured coin out of nothing and burn some Chia (or vice versa) and this offer
 can be distributed to others. Anyone in the universe that finds or sees an offer can make a transaction which finishes the other side. That paired transaction will be a valid transaction that can be introduced to the blockchain and it will go through. It's also possible to have much more complex offers involving multiple colours and to match chains of offers. As long as the sum totals work in the end, it's all valid.
 
-Coloured coin offers allow a stable coin issuer to ship an app that would let an end user use their stable coin, pay transaction fees in their coin, and basically never know that this all occurred on the Chia blockchain. Inner smart transaction support means that that issuer can create a stable coin wallet that can only spend 100 coins every 24 hours or only send coins to designated payees or can claw back a transaction for the next 3 blocks to fix a typo. You can have this level of token functionality on top of what we expect will be one of the most distributed and secure validation networks ever.
+Coloured coin offers allow a stable coin issuer to ship an app that would let an end user use their stable coin, pay transaction fees in their coin, and basically never know that this all occurred on the Kale blockchain. Inner smart transaction support means that that issuer can create a stable coin wallet that can only spend 100 coins every 24 hours or only send coins to designated payees or can claw back a transaction for the next 3 blocks to fix a typo. You can have this level of token functionality on top of what we expect will be one of the most distributed and secure validation networks ever.
 
 All of this is extremely lightweight. You can simply create a new token and play with it. The on-chain programming environment which enables this is much simpler and more straightforward than the ones in Bitcoin or Ethereum. An environment that is able to self-referentially
 talk about itself enables all the functionality you need. New variants and added
@@ -34,4 +34,4 @@ and our testnet on chain programming environment culminating in the launch of ou
 later this year. Mainnet is the point at which Chia will be ready for production use
 involving real money. Chialisp and Coloured coins you create today are going to require very little modification to run on mainnet after launch.
 
-Try them out in [Beta 1.4 now](https://github.com/Chia-Network/chia-blockchain).
+Try them out in [Beta 1.4 now](https://github.com/Kale-Network/kale-blockchain).
