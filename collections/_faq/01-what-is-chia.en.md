@@ -1,7 +1,8 @@
 ---
 lang: en
 order: 1
-title: "What is Chia?"
+title: "What is Kale?"
 ---
 
-Chia was incorporated in August of 2017 to develop an improved blockchain and smart transaction platform. We are building the Kale Network to improve the global financial and payments systems. Chia is the first enterprise-grade digital money. Chia is using the first new Nakamoto consensus algorithm since Bitcoin. Called Proof of Space and Time, it was created by Bram Cohen, the best network protocol engineer alive and the inventor of BitTorrent. Chialisp is Chia’s new smart transaction programming language that is powerful, easy to audit, and secure. Reference smart transactions currently available are: atomic swaps, authorized payees, recoverable wallets, multisig wallets, and rate-limited wallets.
+Kale is a direct fork of the [Chia&trade;](https://github.com/Chia-Network) Network codebase built by space farmers as a fully decentralized alternative green cryptocurrency that can be secured alongside Chia&trade; while consuming negligible additional power. We aim to be a community-driven fork reflecting the will of our users, while promoting and recognizing excellent contributions to the Chia and Kale user communities. Kale is not affiliated with Chia Network, Inc., but builds on their great open-source work.
+
