@@ -3,7 +3,7 @@ en: # English
   news_title: "News"
   news_see_more: "See more"
   homemain_title: "Kale Network"
-  homemain_subtitle: "Kale is a decentralized green cryptocurrency based on Chia, built by a community of space farmers for everyone."
+  homemain_subtitle: "Kale is a decentralized green cryptocurrency based on Chia&trade;, built by a community of space farmers for everyone."
   homemain_announce: "<a href='https://github.com/Kale-Network/kale-blockchain'>Kale mainnet is live!</a>"
   homemain_button: "Download Beta Testnet"
   homemain_description: |
@@ -15,8 +15,6 @@ en: # English
     On February 9th we released our [Business Whitepaper](https://www.chia.net/2021/02/10/chia-businesss-whitepaper.html) and mainnet launched for farming rewards on Friday March 19, 2021. Transactions were enabled on May 3, 2021. You may also be interested in our [new consensus working document](https://docs.google.com/document/d/1tmRIb7lgi4QfKkNaxuKOBHRmwbVlGL4f7EsBDr_5xZE/edit) which was implemented first in Beta 19 on January 12, 2021.
 
     Kale Network develops a blockchain and smart transaction platform created by the inventor of BitTorrent, [Bram Cohen](https://techcrunch.com/2018/03/28/chia-vs-bitcoin/). It implements the first new Nakamoto consensus algorithm since Bitcoin in 2008. Proofs of Space and Time replace energy intensive “proofs of work.”
-
-    [Chialisp](https://chialisp.com) is Chia’s new on chain programming language that is powerful, easy to audit, and secure. It will make cryptocurrency easier to use than cash. Reference smart transactions currently available are: [Coloured coins](https://www.chia.net/2020/04/29/coloured-coins-launch.en.html), [rate-limited wallets](https://github.com/Kale-Network/kale-blockchain/tree/main/chia/wallet/rl_wallet), and [distributed identity wallets](https://github.com/Kale-Network/kale-blockchain/tree/main/chia/wallet/did_wallet). Bram introduces [Chialisp](https://www.chia.net/2019/11/27/chialisp.en.html) on our [blog](/blog) and you can learn more at [Chialisp.com](https://chialisp.com).
 
     You should review the [release notes](download/#release-notes) and then [install](/download) Kale blockchain.
   homemain_addendum: |
