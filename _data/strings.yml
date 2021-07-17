@@ -34,6 +34,15 @@ en: # English
   homemain_idc_quote: |
      “The Kale Network was developed and launched on the premise that HDD storage capacity is underutilized, and IDC's Global StorageSphere data confirms they are correct.”
   homemain_idc_report: "Read the Report"
+  homemain_explorer_title: "Kale Blockchain Explorer"
+  homemain_explorer_quote: |
+     The community has created a great explorer for Kale, click the button below will redirect you there.
+  homemain_explorer_report: "Read the Explorer"
+  homemain_calculator_title: "Kale Blockchain Calculator"
+  homemain_calculator_quote: |
+     The community has created a cool calculator for Kale, click the button below will redirect you there.
+  homemain_calculator_report: "Run the Calculator"
+
   download_main_text: |
     This is the official Chia installer download page. Any other installer download sources are unofficial and unsafe.
   download_windows_text: |
@@ -196,6 +205,13 @@ cn: # Chinese
   homemain_idc_quote: |
     “The Kale Network was developed and launched on the premise that HDD storage capacity is underutilized, and IDC's Global StorageSphere data confirms they are correct.”
   homemain_idc_report: "Read the Report"
+  homemain_explorer_title: "Kale 区块链浏览器"
+  homemain_explorer_quote: "社区已经为Kale创建了一个很好的浏览器，点击下方按钮将引导你去那里。"
+  homemain_explorer_report: "读取浏览器"
+  homemain_calculator_title: "Kale 区块链計算器"
+  homemain_calculator_quote: 社区已经为Kale创建了一个很好的計算器，点击下方按钮将引导你去那里。
+  homemain_calculator_report: "運行計算器"
+
   about_title: "关于我们"
   about_description: |
     Kale Network是一个去中心化的开源全球区块链，与传统的工作量证明加密货币相比，其浪费更少，去中心化程度更高，更安全。它的灵感与比特币区块链相似，但是在Chia中，资源不是计算能力，而是磁盘空间。为了实现这一目标，比特币中使用的“工作证明”被“空间证明”代替，因此磁盘空间成为达成分散式“中本聪式”共识以验证交易的主要资源和时间证明。
