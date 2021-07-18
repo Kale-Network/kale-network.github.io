@@ -26,6 +26,7 @@ en: # English
     | Full node | node-2.kalenetwork.org | 6333 |
     | Full node | node-3.kalenetwork.org | 6333 |
     | Full node | node-4.kalenetwork.org | 6333 |
+
     <br>
     
     You should review the [release notes](download/#release-notes) and then [install](/download) Kale blockchain.
@@ -179,32 +180,37 @@ cn: # Chinese
   faq_title: "常问问题"
   news_title: "新闻"
   news_see_more: "查看更多"
-  homemain_title: "正大网络"
-  homemain_subtitle: "更好的區塊鍊和智能交易平台，更加分散，更高效，更安全。"
+  homemain_title: "Kale网络"
+  homemain_subtitle: "Kale是一個基於Chia的去中心化的綠色加密貨幣，由空間農名社區為所有人所建立。"
+  homemain_announce: "<a href='https://github.com/Kale-Network/kale-blockchain'>Kale主網已經上綫!</a>"
   homemain_button: "下载Beta Testnet"
   homemain_description: |
-    Chia的Beta测试网
+    主網正式發佈
     -------------
 
-    Kale Network是由BitTorrent的創始人[Bram Cohen](https://techcrunch.com/2018/03/28/chia-vs-bitcoin/)創建的區塊鍊和智能交易平台。它的灵感与比特币区块链相似，但是在Chia中，资源不是计算能力，而是磁盘空间。为此，将能源密集型“工作量证明”替换为“空间量证明”，因此磁盘空间成为验证交易而非能源的主要资源。
+    我們相信加密貨幣應該比現金更容易使用，更難丟失，而且幾乎不可能被竊取。任何想要驗證交易的人都應該能夠在沒有一次性硬件或大筆電費的情況下進行耕作。
 
-    Beta测试网推出了Chialisp的第一个版本，即Chia的智能事务编程语言。当前可用的智能交易有：[原子交换](https://github.com/Chia-Network/wallets/blob/master/docs/atomic_swaps.md)，[授权收款人](https://github.com/Chia-Network/wallets/blob/master/docs/authorised_pa​​yees.md)，[可恢复的钱包](https://github.com/Chia-Network/wallets/blob/master/docs/recoverable_wallet.md)，[multisig钱包](https://github.com/Chia-Network/wallets/blob/master/multisig/README.org)和[限价钱包](https://github.com/Chia-Network/wallets/blob/master/docs/rate_limited_wallet.md)。 Kale Network的创始人和BitTorrent的前创始人在[Chialisp](https://www.chia.net/2019/11/27/chialisp.en.html)上有更多内容。
+    7月4日，我們在[GitHub](https://github.com/Kale-Network/kale-blockchain)上發布了我們的源代碼，並於 2021年7月10日星期六啟動了主網以獲得農業獎勵。交易也已啟用。
 
-    Beta测试网还引入了Chia的区块链共识层，其中包括一个完整的节点，农民和时间主。
+    Kale網絡開發了一種基於 [Chia](https://chia.net) 源代碼的綠色加密貨幣，這是一種使用空間和時間證明算法的創新區塊鏈。 Kale最新發布的版本基於Chia&trade; 1.1.7.
 
-    由于这是Beta版本，因此您可能需要查看[release notes](download/#release-notes)。
+    Kale應該會自動連接到網絡，由 WebSocket 和基於 DNS 的介紹器提供便利，但為了您的參考，這裡有一些我們為網絡運行的節點以幫助您連接。 Kale的主要網絡端口是 TCP 6333。
 
-    区块链
-    ---
+    | 名稱 | 域名 | 端口 |
+    | ---- | ---- | ---- |
+    | DNS 介紹器 | dns-introducer.kalenetwork.org | (DNS) |
+    | WebSocket 介紹器 | introducer.kalenetwork.org | 6333 |
+    | 全節點 | node-1.kalenetwork.org | 6333 |
+    | 全節點 | node-2.kalenetwork.org | 6333 |
+    | 全節點 | node-3.kalenetwork.org | 6333 |
+    | 全節點 | node-4.kalenetwork.org | 6333 |
 
-    Chia的区块链包括一个完整的节点，农民和时间领主。在[GitHub](https://github.com/Kale-Network/kale-blockchain)上下载源代码。
+    <br>
+    
+    您應該查看 [發行說明](download/#release-notes) 然後 [安裝](/download) Kale 區塊鏈。
 
-    Chialisp和LedgerSim
-    ------------------
-
-    LedgerSim支持在账本而非区块链上进行Chialisp智能交易，以进行测试和开发。 Chia的钱包展示了我们的新编程语言Chialisp。在[GitHub](https://github.com/Chia-Network/wallets)上下载源代码。
   homemain_addendum: |
-    在開源[Apache許可證]（https://www.apache.org/licenses/LICENSE-2.0）下發布。
+    在開源[Apache許可證](https://www.apache.org/licenses/LICENSE-2.0)下發布。
   homemain_box_title: "资料下载"
   homemain_box_section_1: "区块链"
   homemain_box_section_2: "Chialisp和LedgerSim"
