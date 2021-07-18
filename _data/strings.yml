@@ -14,9 +14,7 @@ en: # English
 
     On July 4th we released our source code on [GitHub](https://github.com/Kale-Network/kale-blockchain) and mainnet launched for farming rewards on Saturday July 10, 2021. Transactions were enabled as well. 
 
-    Kale Network develops a green cryptocurrency that is based on the [Chia](https://chia.net) source code, which is an innovative blockchain using Proofs of Space and Time algorithms. The latest released version of Kale is based on Chia&trade; 1.1.7.
-
-    You should review the [release notes](download/#release-notes) and then [install](/download) Kale blockchain.
+    Kale Network develops a green cryptocurrency that is based on the [Chia](https://chia.net) source code, an innovative blockchain using Proofs of Space and Time algorithms. The latest released version of Kale is based on Chia&trade; 1.1.7.
 
     Kale should automatically connect to the network, facilitated by WebSocket and DNS-based introducers, but for your reference, here are some nodes that we are running for the network to help you connect. Kale's main network port is TCP 6333. 
 
@@ -28,7 +26,9 @@ en: # English
     | Full node | node-2.kalenetwork.org | 6333 |
     | Full node | node-3.kalenetwork.org | 6333 |
     | Full node | node-4.kalenetwork.org | 6333 |
-
+    <br>
+    
+    You should review the [release notes](download/#release-notes) and then [install](/download) Kale blockchain.
 
   homemain_addendum: |
     Released under the open source [Apache License](https://www.apache.org/licenses/LICENSE-2.0).
