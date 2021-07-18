@@ -1,6 +1,6 @@
 ---
 lang: cn
-order: 13
+order: 3
 title: “為什麼我們要提前耕種?”
 ---
 
