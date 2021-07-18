@@ -12,11 +12,24 @@ en: # English
 
     We believe that cryptocurrency should be easier to use than cash, harder to lose, and nearly impossible to steal. Anyone who wants to validate transactions should be able to farm without single-use hardware or a big electricity bill.
 
-    On February 9th we released our [Business Whitepaper](https://www.chia.net/2021/02/10/chia-businesss-whitepaper.html) and mainnet launched for farming rewards on Friday March 19, 2021. Transactions were enabled on May 3, 2021. You may also be interested in our [new consensus working document](https://docs.google.com/document/d/1tmRIb7lgi4QfKkNaxuKOBHRmwbVlGL4f7EsBDr_5xZE/edit) which was implemented first in Beta 19 on January 12, 2021.
+    On July 4th we released our source code on [GitHub](https://github.com/Kale-Network/kale-blockchain) and mainnet launched for farming rewards on Saturday July 10, 2021. Transactions were enabled as well. 
 
-    Kale Network develops a blockchain and smart transaction platform created by the inventor of BitTorrent, [Bram Cohen](https://techcrunch.com/2018/03/28/chia-vs-bitcoin/). It implements the first new Nakamoto consensus algorithm since Bitcoin in 2008. Proofs of Space and Time replace energy intensive “proofs of work.”
+    Kale Network develops a green cryptocurrency that is based on the [Chia](https://chia.net) source code, which is an innovative blockchain using Proofs of Space and Time algorithms. The latest released version of Kale is based on Chia&trade; 1.1.7.
 
     You should review the [release notes](download/#release-notes) and then [install](/download) Kale blockchain.
+
+    Kale should automatically connect to the network, facilitated by WebSocket and DNS-based introducers, but for your reference, here are some nodes that we are running for the network to help you connect. Kale's main network port is TCP 6333. 
+
+    | Name | Domain | Port |
+    | ---- | ---- | ---- |
+    | DNS introducer | dns-introducer.kalenetwork.org | (DNS) |
+    | WebSocket introducer | introducer.kalenetwork.org | 6333 |
+    | Full node | node-1.kalenetwork.org | 6333 |
+    | Full node | node-2.kalenetwork.org | 6333 |
+    | Full node | node-3.kalenetwork.org | 6333 |
+    | Full node | node-4.kalenetwork.org | 6333 |
+
+
   homemain_addendum: |
     Released under the open source [Apache License](https://www.apache.org/licenses/LICENSE-2.0).
   homemain_box_title: "Download"
@@ -55,6 +68,7 @@ en: # English
   download_debian_button: "Ubuntu/Debian"
   download_debianarm_button: "Ubuntu/Debian ARM"
   download_centosfedora_button: "CentOS/Redhat"
+  download_sourcecode_button: "Source Code"
   download_wsl2_button: "Install WSL2"
   download_amzlinux_button: "Install Amazon Linux"
   about_title: "About Us"
@@ -228,6 +242,7 @@ cn: # Chinese
   download_debian_button: "Ubuntu/Debian"
   download_debianarm_button: "Ubuntu/Debian ARM"
   download_centosfedora_button: "CentOS/Redhat"
+  download_sourcecode_button: "源代碼"
   download_wsl2_button: "Install WSL2"
   download_amzlinux_button: "Install Amazon Linux"
   green_paper_main_title: "嘉的绿皮书"
