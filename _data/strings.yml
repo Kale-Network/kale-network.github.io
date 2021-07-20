@@ -217,6 +217,7 @@ cn: # Chinese
   homemain_box_latest_version: "最新版本："
   homemain_chia_blockchain_no_releases: "1.0"
   homemain_wallets_no_releases: "1.0"
+  install_box_button: "安装 Kale 区块链"
   homemain_box_button: "下载源代码"
   homemain_downloads_link: "查看发行说明"
   homemain_idc_title: "IDC on Chia"
