@@ -41,6 +41,7 @@ en: # English
   homemain_wallets_no_releases: "1.0"
   homemain_box_button: "Download Source Code"
   install_box_button: "Install Kale blockchain"
+  kaledb_box_button: "Download Database (blockchain_v1_mainnet.sqlite)"
   homemain_downloads_link: "Release notes"
   homemain_idc_title: "IDC on Chia"
   homemain_idc_quote: |
@@ -177,7 +178,7 @@ en: # English
       sign_up: "Sign Up"
 
 cn: # Chinese
-  faq_title: "常问问题"
+  faq_title: "常见问题"
   news_title: "新闻"
   news_see_more: "查看更多"
   homemain_title: "Kale网络"
@@ -219,6 +220,7 @@ cn: # Chinese
   homemain_wallets_no_releases: "1.0"
   install_box_button: "安装 Kale 区块链"
   homemain_box_button: "下载源代码"
+  kaledb_box_button: "下载数据库 (blockchain_v1_mainnet.sqlite)"
   homemain_downloads_link: "查看发行说明"
   homemain_idc_title: "IDC on Chia"
   homemain_idc_quote: |
@@ -269,7 +271,7 @@ cn: # Chinese
     about: "关于"
     blog: "博客"
     news: "新闻"
-    faq: "常问问题"
+    faq: "常见问题"
     greenpaper: "绿皮书"
     contact: "联系"
   contact_title: "联系我们"
