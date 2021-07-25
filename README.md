@@ -1,5 +1,5 @@
 KaleNetwork.org
 ========
 
-Website for the [Kale](https://www.kalenetwork.org/) cryptocurrency. 
+Website for the [Kale](https://www.kalenetwork.org/) cryptocurrency.
 
