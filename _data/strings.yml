@@ -55,6 +55,10 @@ en: # English
   homemain_calculator_quote: |
      The community has created a cool calculator for Kale, click the button below will redirect you there.
   homemain_calculator_report: "Run the Calculator"
+  homemain_trader_title: "Kale Market"
+  homemain_trader_quote: |
+     The community has created a great market for Kale, click the button below will redirect you there.
+  homemain_trader_report: "Trade with XKA"
 
   download_main_text: |
     This is the official Chia installer download page. Any other installer download sources are unofficial and unsafe.
@@ -230,8 +234,11 @@ cn: # Chinese
   homemain_explorer_quote: "社区已经为Kale创建了一个很好的浏览器，点击下方按钮将引导你去那里。"
   homemain_explorer_report: "读取浏览器"
   homemain_calculator_title: "Kale 区块链計算器"
-  homemain_calculator_quote: 社区已经为Kale创建了一个很好的計算器，点击下方按钮将引导你去那里。
+  homemain_calculator_quote: "社区已经为Kale创建了一个很好的計算器，点击下方按钮将引导你去那里。"
   homemain_calculator_report: "運行計算器"
+  homemain_trader_title: "Kale 市场"
+  homemain_trader_quote: "社区已经为Kale创建了一个交易市场，点击下方按钮将引导你去那里。"
+  homemain_trader_report: "使用XKA进行交易"
 
   about_title: "关于我们"
   about_description: |
