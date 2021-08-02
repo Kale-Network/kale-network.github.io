@@ -3,7 +3,7 @@ en: # English
   news_title: "News"
   news_see_more: "See more"
   homemain_title: "Kale Network"
-  homemain_subtitle: "Kale is a decentralized green cryptocurrency based on Chia&trade;, built by a community of space farmers for everyone."
+  homemain_subtitle: "Kale is a decentralized green cryptocurrency based on PoST consensus algorithm, built by a community of space farmers for everyone."
   homemain_announce: "<a href='https://github.com/Kale-Network/kale-blockchain'>Kale mainnet is live!</a>"
   homemain_button: "Download Beta Testnet"
   homemain_description: |
@@ -182,7 +182,7 @@ cn: # Chinese
   news_title: "新闻"
   news_see_more: "查看更多"
   homemain_title: "Kale网络"
-  homemain_subtitle: "Kale是一個基於Chia的去中心化的綠色加密貨幣，由空間農名社區為所有人所建立。"
+  homemain_subtitle: "Kale是一個基於时空证明共识算法的去中心化的綠色加密貨幣，由空間農名社區為所有人所建立。"
   homemain_announce: "<a href='https://github.com/Kale-Network/kale-blockchain'>Kale主網已經上綫!</a>"
   homemain_button: "下载Beta Testnet"
   homemain_description: |
