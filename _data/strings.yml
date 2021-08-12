@@ -25,7 +25,6 @@ en: # English
     | Full node | node-1.kalenetwork.org | 6333 |
     | Full node | node-2.kalenetwork.org | 6333 |
     | Full node | node-3.kalenetwork.org | 6333 |
-    | Full node | node-4.kalenetwork.org | 6333 |
 
     <br>
     
@@ -58,7 +57,7 @@ en: # English
   homemain_trader_title: "Kale Market"
   homemain_trader_quote: |
      The community has created a great market for Kale, click the button below will redirect you there.
-  homemain_trader_report: "Trade with XKA"
+  homemain_trader_report: "Trade XKA"
 
   download_main_text: |
     This is the official Chia installer download page. Any other installer download sources are unofficial and unsafe.
