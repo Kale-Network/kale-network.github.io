@@ -29,7 +29,6 @@ en: # English
     | Full node | node-5.kalenetwork.org | 6333 |
     | Full node | node-6.kalenetwork.org | 6333 |
     | Full node | node-7.kalenetwork.org | 6333 |
-    <br>
     
     You should review the [release notes](download/#release-notes) and then [install](/download) Kale blockchain.
 
