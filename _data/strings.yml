@@ -61,6 +61,11 @@ en: # English
      The community has created a great market for Kale, click the button below will redirect you there.
   homemain_trader_report: "Trade XKA"
 
+  homemain_claimnft_title: "Claim Rewards"
+  homemain_claimnft_quote: |
+     The community has created a 7/8 NFT reward system for Kale, click the button below will redirect you there.
+  homemain_claimnft_report: "Claim 7/8 NFT rewards"
+
   download_main_text: |
     This is the official Chia installer download page. Any other installer download sources are unofficial and unsafe.
   download_windows_text: |
@@ -237,9 +242,14 @@ cn: # Chinese
   homemain_calculator_title: "Kale 区块链計算器"
   homemain_calculator_quote: "社区已经为Kale创建了一个很好的計算器，点击下方按钮将引导你去那里。"
   homemain_calculator_report: "運行計算器"
+
   homemain_trader_title: "Kale 市场"
   homemain_trader_quote: "社区已经为Kale创建了一个交易市场，点击下方按钮将引导你去那里。"
   homemain_trader_report: "使用XKA进行交易"
+
+  homemain_claimnft_title: "得到奖励"
+  homemain_claimnft_quote: 社区已经为Kale创建了一个很好的7/8 NFT 奖励恢复器，点击下方按钮将引导你去那里。
+  homemain_claimnft_report: "得到余下的 7/8 NFT奖励"
 
   about_title: "关于我们"
   about_description: |
