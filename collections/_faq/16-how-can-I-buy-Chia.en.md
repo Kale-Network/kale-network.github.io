@@ -3,4 +3,4 @@ lang: en
 order: 16
 title: "How can I buy Kale?"
 ---
-After transactions begin on the mainnet, Kale will be available for buying, selling, and trading on most global exchanges from other kale owners. Currently you can trade kale on [Discord](https://discord.gg/HwV2QEtY).
+After transactions begin on the mainnet, Kale is available for buying, selling, and trading from other kale owners. Currently you can trade Kale on [market.posat.io](https://market.posat.io) and [Discord](https://discord.gg/KqJcgrwzAu) for other coins. Kale will probably be traded on most global exchanges.

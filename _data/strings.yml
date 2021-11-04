@@ -3,7 +3,7 @@ en: # English
   news_title: "News"
   news_see_more: "See more"
   homemain_title: "Kale Network"
-  homemain_subtitle: "Kale is a decentralized green cryptocurrency based on Chia&trade;, built by a community of space farmers for everyone."
+  homemain_subtitle: "Kale is a decentralized green cryptocurrency based on PoST consensus algorithm, built by a community of space farmers for everyone."
   homemain_announce: "<a href='https://github.com/Kale-Network/kale-blockchain'>Kale mainnet is live!</a>"
   homemain_button: "Download Beta Testnet"
   homemain_description: |
@@ -14,7 +14,7 @@ en: # English
 
     On July 4th we released our source code on [GitHub](https://github.com/Kale-Network/kale-blockchain) and mainnet launched for farming rewards on Saturday July 10, 2021. Transactions were enabled as well. 
 
-    Kale Network develops a green cryptocurrency that is based on the [Chia](https://chia.net) source code, an innovative blockchain using Proofs of Space and Time algorithms. The latest released version of Kale is based on Chia&trade; 1.1.7.
+    Kale Network develops a green cryptocurrency that is based on the [Chia](https://chia.net) source code, an innovative blockchain using Proofs of Space and Time algorithms. The latest released version of Kale is based on Chia&trade; 1.2.3.
 
     Kale should automatically connect to the network, facilitated by WebSocket and DNS-based introducers, but for your reference, here are some nodes that we are running for the network to help you connect. Kale's main network port is TCP 6333. 
 
@@ -26,8 +26,6 @@ en: # English
     | Full node | node-2.kalenetwork.org | 6333 |
     | Full node | node-3.kalenetwork.org | 6333 |
     | Full node | node-4.kalenetwork.org | 6333 |
-
-    <br>
     
     You should review the [release notes](download/#release-notes) and then [install](/download) Kale blockchain.
 
@@ -55,6 +53,15 @@ en: # English
   homemain_calculator_quote: |
      The community has created a cool calculator for Kale, click the button below will redirect you there.
   homemain_calculator_report: "Run the Calculator"
+  homemain_trader_title: "Kale Market"
+  homemain_trader_quote: |
+     The community has created a great market for Kale, click the button below will redirect you there.
+  homemain_trader_report: "Trade XKA"
+
+  homemain_claimnft_title: "Claim Rewards"
+  homemain_claimnft_quote: |
+     The community has created a 7/8 NFT reward system for Kale, click the button below will redirect you there.
+  homemain_claimnft_report: "Claim 7/8 NFT rewards"
 
   download_main_text: |
     This is the official Chia installer download page. Any other installer download sources are unofficial and unsafe.
@@ -182,7 +189,7 @@ cn: # Chinese
   news_title: "新闻"
   news_see_more: "查看更多"
   homemain_title: "Kale网络"
-  homemain_subtitle: "Kale是一個基於Chia的去中心化的綠色加密貨幣，由空間農名社區為所有人所建立。"
+  homemain_subtitle: "Kale是一個基於时空证明共识算法的去中心化的綠色加密貨幣，由空間農名社區為所有人所建立。"
   homemain_announce: "<a href='https://github.com/Kale-Network/kale-blockchain'>Kale主網已經上綫!</a>"
   homemain_button: "下载Beta Testnet"
   homemain_description: |
@@ -193,7 +200,7 @@ cn: # Chinese
 
     7月4日，我們在[GitHub](https://github.com/Kale-Network/kale-blockchain)上發布了我們的源代碼，並於 2021年7月10日星期六啟動了主網以獲得農業獎勵。交易也已啟用。
 
-    Kale網絡開發了一種基於 [Chia](https://chia.net) 源代碼的綠色加密貨幣，這是一種使用空間和時間證明算法的創新區塊鏈。 Kale最新發布的版本基於Chia&trade; 1.1.7.
+    Kale網絡開發了一種基於 [Chia](https://chia.net) 源代碼的綠色加密貨幣，這是一種使用空間和時間證明算法的創新區塊鏈。 Kale最新發布的版本基於Chia&trade; 1.2.3.
 
     Kale應該會自動連接到網絡，由 WebSocket 和基於 DNS 的介紹器提供便利，但為了您的參考，這裡有一些我們為網絡運行的節點以幫助您連接。 Kale的主要網絡端口是 TCP 6333。
 
@@ -230,8 +237,16 @@ cn: # Chinese
   homemain_explorer_quote: "社区已经为Kale创建了一个很好的浏览器，点击下方按钮将引导你去那里。"
   homemain_explorer_report: "读取浏览器"
   homemain_calculator_title: "Kale 区块链計算器"
-  homemain_calculator_quote: 社区已经为Kale创建了一个很好的計算器，点击下方按钮将引导你去那里。
+  homemain_calculator_quote: "社区已经为Kale创建了一个很好的計算器，点击下方按钮将引导你去那里。"
   homemain_calculator_report: "運行計算器"
+
+  homemain_trader_title: "Kale 市场"
+  homemain_trader_quote: "社区已经为Kale创建了一个交易市场，点击下方按钮将引导你去那里。"
+  homemain_trader_report: "使用XKA进行交易"
+
+  homemain_claimnft_title: "得到奖励"
+  homemain_claimnft_quote: 社区已经为Kale创建了一个很好的7/8 NFT 奖励恢复器，点击下方按钮将引导你去那里。
+  homemain_claimnft_report: "得到余下的 7/8 NFT奖励"
 
   about_title: "关于我们"
   about_description: |
